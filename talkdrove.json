@@ -8,7 +8,7 @@
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here.;;;, or get session id from here, https://high-rodie-dew-md-8b276a52.koyeb.app",
+        "description": "Put your SESSION_ID here.;;;, or get session id from here, https://mega-pair.onrender.com/pair",
         "value":"",
         "required": true
         
