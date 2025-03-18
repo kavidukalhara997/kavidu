@@ -1,7 +1,7 @@
 {
-  "name": "ASITHA-MD",
-  "description": "Javascript WhatsApp bot made by Asitha",
-  "logo": "https://telegra.ph/file/38a4ba6f7a51c15f5feaf.jpg",
+  "name": "DEW-MD",
+  "description": "Javascript WhatsApp bot made by Hansa",
+  "logo": "https://i.ibb.co/tT6v8x1t/favicon.png",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -9,23 +9,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true
-    },
- "NEWS_SEND_JID": {
-      "description": "Put the jid channel or group",
-      "required": false
-    },
-"AUTO_NEWS_SENDER": {
-      "description": "true or false",
-      "required": false
-    } ,
-"TIKTOK_SEND_JID": {
-      "description": "Put the jid channel or group",
-      "required": false
-    } ,
-    "AUTO_TIKTOK_SENDER": {
-      "description": "true or false",
-      "required": false
-    } 
+    }
 },
 
      "buildpacks": [
